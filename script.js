@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function showError() {
-    weatherInfo.classList.remove("hidden");
-    errorMessage.classList.add("hidden");
-  }
+  weatherInfo.classList.add("hidden");     // HIDE weather info
+  errorMessage.classList.remove("hidden"); // SHOW error message
+}
 });
