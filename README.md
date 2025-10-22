@@ -4,7 +4,7 @@ A clean and simple web application that displays the current weather for any cit
 
 ## Preview
 
-![Weather App Screenshot](https://i.imgur.com/your-screenshot-url.png)
+![Weather App Screenshot](https://github.com/rajvardhansingh7/Weather_API/blob/main/image.png)
 
 ## Features
 
