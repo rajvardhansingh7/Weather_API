@@ -5,7 +5,6 @@ A clean and simple web application that displays the current weather for any cit
 ## Preview
 
 ![Weather App Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(Replace the URL above with a link to a screenshot of your project!)*
 
 ## Features
 
